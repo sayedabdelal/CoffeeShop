@@ -12,7 +12,7 @@ Welcome to the Coffee with Vanilla e-commerce website! This project aims to prov
 - **User Accounts**: Register an account to unlock additional features, including order history and personalized recommendations.
 
 ## Demo
-You can access a live demo of the Coffee with Vanilla e-commerce website [here]( ).
+You can access a live demo of the Coffee with Vanilla e-commerce website [here](https://sayedabdelal.github.io/CoffeeShop/ ).
 
 ## Technologies Used
 - **HTML5**: Structuring the website's content.
